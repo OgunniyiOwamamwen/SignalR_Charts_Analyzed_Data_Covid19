@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_Charts_Core_5_0", "SignalR_Charts_Core_5_0\SignalR_Charts_Core_5_0.csproj", "{DF7FAAB3-8E8F-4100-8B9E-A463FD5F05C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7FAAB3-8E8F-4100-8B9E-A463FD5F05C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7FAAB3-8E8F-4100-8B9E-A463FD5F05C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7FAAB3-8E8F-4100-8B9E-A463FD5F05C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7FAAB3-8E8F-4100-8B9E-A463FD5F05C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {093B6FF5-D668-4E51-B014-2BBE3341533C}
+	EndGlobalSection
+EndGlobal
